@@ -34,7 +34,7 @@ class Register extends React.Component {
         })
             .then(response => response.json())
             .then(user => {
-                if (user) {
+                if (user.id) {
                     //besides switch to homepage, we also want to update
                     //the user profile. So we can add a "loadUser" function in app.js
                     //which allows to pass the user object to "this" .
