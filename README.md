@@ -1,5 +1,7 @@
 # Smart Brain
-A face-detection project (front-end part)
+A face-detection project (front-end part) hosting on Heroku.
+
+https://tianhuang-smartbrain.herokuapp.com
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
